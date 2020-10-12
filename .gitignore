@@ -1,0 +1,8 @@
+/*
+#/dnsmasq/*
+#/OpenVPN/*
+#/OpenVPN/client/*
+!/dnsmasq/*.conf
+!/OpenVPN/client/*.sh
+!/README.md
+!/.gitignore
